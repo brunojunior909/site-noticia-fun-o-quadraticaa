@@ -52,7 +52,6 @@ Esse site trata de um trabalho de faculdade que será utilizado como uma dinâmi
   <div class="container">
     <h2>Função Quadrática: Da Antiguidade à Sala de Aula Moderna</h2>
     <p class="data">Publicado em 27 de maio de 2025</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Quadratic.svg/800px-Quadratic.svg.png" alt="Gráfico de uma função quadrática">
     <p>
       A função quadrática, conhecida pela forma <strong>y = ax² + bx + c</strong>, é um dos conteúdos mais clássicos da matemática escolar. Mas você sabia que esse conceito tem origem há mais de 2000 anos?
     </p>
